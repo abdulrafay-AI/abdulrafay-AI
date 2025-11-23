@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafay!
 
-<!--
-**abdulrafay-AI/abdulrafay-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about **Artificial Intelligence, Machine Learning, and software development**. I love understanding how AI models learn, building projects, and improving my programming and problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 AI student focused on **ML/DL & neural networks**
+- 💻 Learning Python, PyTorch, TensorFlow
+- 🧠 Interested in model training, algorithms & data
+- 📚 Always experimenting with new ideas and improving my skills
+
+---
+
+## 🧩 Skills & Tools
+
+### **Languages**
+- Python
+- Java
+- C++ (learning)
+- HTML / CSS
+
+### **AI / ML**
+- TensorFlow
+- PyTorch
+- NumPy
+- Pandas
+
+### **Tools**
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🌱 Currently Learning
+- Deep Learning
+- Advanced Python
+- AI-powered applications
+- Open-source collaboration
+
+---
+
+## 🎯 Goals
+- Master AI fundamentals
+- Build open-source AI projects
+- Create & publish ML tools
+- Become a full-stack AI developer
+
+---
+
+## 📫 Connect With Me
+Feel free to explore my repositories and follow my AI journey.
+
+---
+
+### ⭐ Thanks for visiting my profile!
